@@ -5,6 +5,7 @@
         "ms-python.python",
         "ms-python.vscode-pylance",
         "visualstudioexptteam.vscodeintellicode",
+        "python.formatting.provider": "black"
     ],
     "settings": {
         "python.pythonPath": "/usr/local/bin/python",
