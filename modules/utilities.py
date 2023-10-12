@@ -2,12 +2,12 @@ import random
 
 
 def generate_random_value(start, end):
-    pass
+    return random.randint(start,end)
 
 
 def get_user_input(prompt):
-    pass
+    return input(prompt)
 
 
-def display(message):
-    pass
+def display_message(message):
+    return print(message)
